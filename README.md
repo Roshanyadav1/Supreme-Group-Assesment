@@ -119,10 +119,8 @@ This architecture supports:
 
 The implementation follows a mobile-first approach using Tailwind's responsive breakpoints:
 - `sm`: 640px and above (small devices)
-- `md`: 768px and above (medium devices)
 - `lg`: 1024px and above (large devices)
 - `xl`: 1280px and above (extra-large devices)
-- `2xl`: 1536px and above (2x-large devices)
 
 Key responsive strategies implemented:
 - Fluid typography that scales appropriately across devices
