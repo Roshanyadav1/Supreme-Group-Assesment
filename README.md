@@ -195,4 +195,4 @@ The project is deployed at: [https://supreme-group-assesment.vercel.app/](https:
 
 For any questions or clarifications regarding this implementation, please contact:
 
-[Your Name] - [your.email@example.com]
+[Roshan Yadav] - [mrroshan738949@gmail.com]
